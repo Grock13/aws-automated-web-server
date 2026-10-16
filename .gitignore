@@ -1,0 +1,5 @@
+*.pem
+*.key
+*.log
+*.tar.gz
+.env
